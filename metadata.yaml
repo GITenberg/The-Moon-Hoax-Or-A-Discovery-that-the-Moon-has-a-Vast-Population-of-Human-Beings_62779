@@ -1,5 +1,5 @@
 _repo: The-Moon-Hoax-Or-A-Discovery-that-the-Moon-has-a-Vast-Population-of-Human-Beings_62779
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   dubious_author:
     agent_name: Nicollet, J. N. (Joseph Nicolas)
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Joseph_Nicollet
     - https://fr.wikipedia.org/wiki/Joseph_Nicollet
+covers:
+- cover_type: archival
+  image_path: 62779-h/images/cover.jpg
 creator:
   author:
     agent_name: Locke, Richard Adams
@@ -29,6 +32,8 @@ description:
   Sir John Herschel at the Cape of Good Hope, and which pretended to be reprinted
   from a supplement to the Edinburgh journal of science (then defunct). Sometimes
   attributed to Joseph Nicolas Nicollet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62779#The-Moon-Hoax-Or-A-Discovery-that-the-Moon-has-a-Vast-Population-of-Human-Beings
 gutenberg_issued: '2020-07-28'
 gutenberg_type: Text
 identifiers:
