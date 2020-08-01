@@ -1,0 +1,50 @@
+_repo: The-Moon-Hoax-Or-A-Discovery-that-the-Moon-has-a-Vast-Population-of-Human-Beings_62779
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Nicollet, J. N. (Joseph Nicolas)
+    aliases:
+    - Nicollet, I. N.
+    - Nicollet, Joseph Nicolas
+    - Nicollet, Joseph N.
+    birthdate: 1786
+    deathdate: 1843
+    gutenberg_agent_id: '52114'
+    url: http://www.gutenberg.org/2009/agents/52114
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joseph_Nicollet
+    - https://fr.wikipedia.org/wiki/Joseph_Nicollet
+creator:
+  author:
+    agent_name: Locke, Richard Adams
+    birthdate: 1800
+    deathdate: 1871
+    gutenberg_agent_id: '52121'
+    url: http://www.gutenberg.org/2009/agents/52121
+    wikipedia: https://en.wikipedia.org/wiki/Great_Moon_Hoax#Authorship
+description:
+- 'The Great Moon Hoax at Wikipedia: https://en.wikipedia.org/wiki/Great_Moon_Hoax'
+- A series of articles originally published in the Sun, Aug. 1835, under title "Great
+  astronomical discoveries", which purported to be an account of the discoveries of
+  Sir John Herschel at the Cape of Good Hope, and which pretended to be reprinted
+  from a supplement to the Edinburgh journal of science (then defunct). Sometimes
+  attributed to Joseph Nicolas Nicollet.
+gutenberg_issued: '2020-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Moon -- Miscellanea'
+- !lcsh 'Herschel, John F. W. (John Frederick William), 1792-1871 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Astronomy -- Miscellanea'
+- GITenberg
+title: "The Moon Hoax\r\nOr, A Discovery that the Moon has a Vast Population of Human\
+  \ Beings"
+url: http://www.gutenberg.org/ebooks/62779
